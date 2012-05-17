@@ -1,5 +1,5 @@
                    ========================================
-                     Package "Date::Calc::XS" Version 6.2
+                     Package "Date::Calc::XS" Version 6.3
                    ========================================
 
 
@@ -19,10 +19,10 @@ profiles of legal holidays and observances for calculations which need to
 take those into account.
 
 
-What's new in version 6.2:
+What's new in version 6.3:
 --------------------------
 
- +  Split the "Date::Calc" distribution into a pure-Perl and a C/XS part
+ +  Changed the definition of the "boolean" data type in ToolBox.h
 
 
 Copyright & License:
@@ -30,7 +30,7 @@ Copyright & License:
 
 This package with all its parts is
 
-Copyright (c) 1995 - 2009 by Steffen Beyer.
+Copyright (c) 1995 - 2012 by Steffen Beyer.
 All rights reserved.
 
 This package is free software; you can use, modify and redistribute

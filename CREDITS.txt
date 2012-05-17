@@ -1,9 +1,9 @@
                    ========================================
-                     Package "Date::Calc::XS" Version 6.2
+                     Package "Date::Calc::XS" Version 6.3
                    ========================================
 
 
-                  Copyright (c) 1995 - 2009 by Steffen Beyer.
+                  Copyright (c) 1995 - 2012 by Steffen Beyer.
                              All rights reserved.
 
 
@@ -459,5 +459,10 @@ Many thanks to H.Merijn Brand <h.m.brand@xs4all.nl> for
 discussing the various issues and advantages/disadvantages
 of integrating versus splitting the C/XS-part and the pure-Perl
 part of this distribution with me!
+
+Many thanks to Nicholas, Zefram, Slaven Rezic and Andreas Koenig
+for providing a patch for the definition of the "boolean" data
+type in Toolbox.h:
+http://cpan.cpantesters.org/authors/id/A/AN/ANDK/patches/Bit-Vector-7.1-ZEFRAMish-01.patch.gz
 
 

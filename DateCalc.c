@@ -2423,15 +2423,16 @@ void DateCalc_Dispose(charptr string)
 
 charptr DateCalc_Version(void)
 {
-    return( (charptr) "6.2" );
+    return( (charptr) "6.3" );
 }
 
 /*****************************************************************************/
-/*  VERSION:  6.2                                                            */
+/*  VERSION:  6.3                                                            */
 /*****************************************************************************/
 /*  VERSION HISTORY:                                                         */
 /*****************************************************************************/
 /*                                                                           */
+/*    Version 6.3  17.05.12  No changes.                                     */
 /*    Version 6.2  16.10.09  No changes.                                     */
 /*    Version 6.1  15.10.09  Fixed Polish language entries.                  */
 /*    Version 6.0  07.10.09  +: norm_delta_ymdhms, add_norm_delta_ymd[hms].  */
@@ -2478,7 +2479,7 @@ charptr DateCalc_Version(void)
 /*  COPYRIGHT:                                                               */
 /*****************************************************************************/
 /*                                                                           */
-/*    Copyright (c) 1993 - 2009 by Steffen Beyer.                            */
+/*    Copyright (c) 1993 - 2012 by Steffen Beyer.                            */
 /*    All rights reserved.                                                   */
 /*                                                                           */
 /*****************************************************************************/

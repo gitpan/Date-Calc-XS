@@ -2,7 +2,7 @@
 
 ###############################################################################
 ##                                                                           ##
-##    Copyright (c) 1995 - 2009 by Steffen Beyer.                            ##
+##    Copyright (c) 1995 - 2012 by Steffen Beyer.                            ##
 ##    All rights reserved.                                                   ##
 ##                                                                           ##
 ##    This package is free software; you can redistribute it                 ##
@@ -40,7 +40,7 @@ WriteMakefile(
     'PREREQ_PM'         => {
                                'Carp::Clan'  => 5.3,
                                'Bit::Vector' => 7.1,
-                               'Date::Calc'  => 6.2
+                               'Date::Calc'  => 6.3
                            },
     'META_MERGE'        => {
                                'recommends'  =>

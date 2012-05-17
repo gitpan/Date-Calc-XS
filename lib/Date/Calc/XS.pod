@@ -19,7 +19,7 @@ L<Date::Calc(3)>, L<Date::Calc::PP(3)>.
 
 =head1 VERSION
 
-This man page documents "Date::Calc::XS" version 6.2.
+This man page documents "Date::Calc::XS" version 6.3.
 
 =head1 AUTHOR
 
@@ -29,7 +29,7 @@ This man page documents "Date::Calc::XS" version 6.2.
 
 =head1 COPYRIGHT
 
-Copyright (c) 1995 - 2009 by Steffen Beyer. All rights reserved.
+Copyright (c) 1995 - 2012 by Steffen Beyer. All rights reserved.
 
 =head1 LICENSE
 
